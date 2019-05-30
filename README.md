@@ -8,3 +8,5 @@ Due to file size, folder must be downloaded from an external MEGA download.
 While not the highest quality model, I was aiming for a 5th gen(PS1, NINTENDO 64), 6th gen(PS2, XBOX, GAMECUBE) and 
 7th gen console(PS3, XBOX 360, WII) look between the 3 models.
 Texturing was whatever I could grab from Google images and UV Map. Final result looks akin to the textures of 6th gen games.
+
+MEGA Download : https://mega.nz/#!RRoTSAqK!jJ8-3_KyEJuJimAp7vNl9YBpqvvqMbh2B9rJaTzkv6s
